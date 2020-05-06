@@ -40,6 +40,7 @@
   * [Overview](output-targets/overview.md)
   * [www](output-targets/www.md)
   * [dist](output-targets/dist.md)
+  * [dist](output-targets/custom-elements.md)
   * [docs-readme](output-targets/docs-readme.md)
   * [docs-json](output-targets/docs-json.md)
   * [docs-custom](output-targets/docs-custom.md)
@@ -54,8 +55,7 @@
   * [Local Assets](guides/local-assets.md)
   * [Style Guide](guides/style-guide.md)
   * [Service Workers](guides/service-workers.md)
-  * [State Tunnel](guides/state-tunnel.md)
-  * [Redux](guides/redux.md)
+  * [Stencil Store](guides/store.md)
 * Testing
   * [Overview](testing/overview.md)
   * [Config](testing/config.md)
